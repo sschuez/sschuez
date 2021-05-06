@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sschuez
+- 👀 I’m interested in software, startups, the economy 
+- 🌱 I’m currently learning (for a few years now) ruby on rails and js.
